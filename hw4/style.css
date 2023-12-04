@@ -1,0 +1,21 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    padding: 120px 96px;
+    margin: 0 auto;
+    color: black;
+}
+.title{
+    font-weight: 700;
+    line-height: 96px;
+    letter-spacing: -0.8px;
+}
+.title2{
+font-weight: 600;
+line-height: 64px;
+letter-spacing: -0.56px;
+}
+.container2{
+font-weight: 400;
+line-height: 40px;
+letter-spacing: -0.32px;
+}
