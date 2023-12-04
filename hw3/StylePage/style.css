@@ -1,0 +1,27 @@
+/*jhgjk*/
+p {
+    background-color: rgb(238, 255, 250);
+    color: blue;
+}
+#test{
+    color: bisque;
+    background-color: rgb(192, 152, 152);
+}
+.style-text{
+    color: blanchedalmond;
+    background-color: rgb(230, 203, 203);
+}
+p.bg-dark{
+background-color: #600101;
+color: azure;
+}
+.style-text.bg-dark{
+    font-size: 40px;
+}
+ul{
+    background-color: cadetblue;
+}
+ul li{
+    color: rgb(100, 237, 118);
+    background: pink;
+}
