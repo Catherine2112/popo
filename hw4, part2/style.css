@@ -1,0 +1,12 @@
+.logo{
+    display: inline-block;
+    padding-left: 250px;
+}
+.social{
+    display: inline-block;
+    padding-left: 800px;
+}
+.container{
+    background-color: #FAC960;
+    margin: 0 auto;
+}
